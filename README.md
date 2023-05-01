@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 Mail: orensmarie601@gmail.com
 Phone number:+229 527 472 31
-Facebook:Orens Tono.
+Facebook:Orens Tonon.
 <!---
 marieorens/marieorens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

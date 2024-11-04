@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @marieorens
-- 👀 I’m interested in coding and cybersecurity
+- 👋 Hi, I’m @orens
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on many challengeous projects
 - 📫 How to reach me ...

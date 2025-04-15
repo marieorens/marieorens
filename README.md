@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @orens
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on many challengeous projects
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on many challengeous and fun projects :)
 - 📫 How to reach me ...
 Mail: orensmarie601@gmail.com
-Phone number:+229 431 269 28
+Phone number:+229 01431 269 28
 
 <!---
 marieorens/marieorens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
